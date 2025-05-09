@@ -37,4 +37,5 @@ The analysis focuses on retail product sales and answers key business questions.
 - Pivot Tables & Pivot Charts  
 - Dashboard Design  
 
-
+Inpiration 
+https://www.youtube.com/watch?v=VB0kMZVwwtQ
