@@ -2,8 +2,8 @@
 
 ## 📌 Project Overview
 
-we build a complete Dashboard using Microsoft Excel, including Power Query, Data Modeling and Pivot Tables.
-The analysis focuses on retail products sales and answers key business Different questions.
+We build a complete Dashboard using Microsoft Excel, including Power Query, Data Modeling and Pivot Tables.
+The analysis focuses on retail product sales and answers key business questions.
 
 ---
 
@@ -17,7 +17,7 @@ The analysis focuses on retail products sales and answers key business Different
 
 ---
 
-## 📊 Key Features
+## 📝 Key Features
 
 - Data cleaning and transformation using **Power Query**
 - add new  columns such as:
